@@ -18,12 +18,12 @@ conda install -c conda-forge manim
 ```
 
 ### Basic use
-Put `trajectory.csv` (or `trajectory.npy`) in the working directory, shape `(N,3)`, then:
+Put `trajectory.csv` (or `trajectory.npy`) in the working directory, shape `(N,3)` (which represent your x,y,z coordinates over time), then run:
 ```powershell
 manim -pql trajectory.py Animate
 ```
 
-If no file is found a demo helix is used.
+If no data is found a demo helix is showed by default.
 
 ### Scaling
 `SCALE_MODE` in `trajectory.py` can be:
