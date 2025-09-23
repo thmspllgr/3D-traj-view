@@ -62,4 +62,4 @@ Edit `SELECT` / `PARAMS` inside that file to choose another curve.
 
 
 ### License
-MIT — see `LICENSE.md`.
+This project is licensed under the MIT License - see `LICENSE.md` for details.
