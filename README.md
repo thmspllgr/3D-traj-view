@@ -4,7 +4,7 @@ This is a small personal tool to animate a 3D path with Manim.
 
 Files:
 ```
-trajectory.py   # scene with scaling options
+trajectory.py   # scene
 generators.py   # write test paths to trajectory.csv
 ```
 
@@ -62,4 +62,4 @@ Edit `SELECT` / `PARAMS` inside that file to choose another curve.
 
 
 ### License
-This project is licensed under the MIT License - see `LICENSE.md` for details.
+This project is licensed under the MIT License - see `LICENSE` for details.
